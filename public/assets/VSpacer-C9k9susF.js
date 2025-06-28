@@ -1,1 +1,0 @@
-import"./VGrid-SUdfUVwp.js";import{c as r}from"./createSimpleFunctional-BtxMKYGJ.js";const e=r("v-spacer","div","VSpacer");export{e as V};
